@@ -46355,4 +46355,34 @@
     <Tag enumID="203" value="4" />
     <Tag enumID="321" value="1" />
   </Entity>
+  <Entity version="2" CardID="GIL_681">
+    <Tag enumID="185" type="String">Nightmare Amalgam</Tag>
+    <Tag enumID="184" type="String">This is an Elemental, Mech,
+Demon, Murloc, Dragon,
+Beast, Pirate and Totem.</Tag>
+    <Tag enumID="183" value="1125" />
+    <Tag enumID="203" value="4" />
+    <Tag enumID="199" value="12" />
+    <Tag enumID="321" value="1" />
+    <Tag enumID="200" value="14" />
+    <Tag enumID="48" value="3" />
+    <Tag enumID="45" value="4" />
+    <Tag enumID="47" value="3" />
+    <Tag enumID="202" value="4" />
+  </Entity>
+  <Entity version="2" CardID="LOOT_368">
+    <Tag enumID="185" type="String">Voidlord</Tag>
+    <Tag enumID="184" type="String">Taunt Deathrattle: Summon three 1/3 Demons with Taunt.</Tag>
+    <Tag enumID="183" value="1004" />
+    <Tag enumID="203" value="4" />
+    <Tag enumID="199" value="9" />
+    <Tag enumID="321" value="1" />
+    <Tag enumID="48" value="9" />
+    <Tag enumID="45" value="9" />
+    <Tag enumID="47" value="3" />
+    <Tag enumID="202" value="4" />
+    <Tag enumID="200" value="15" />
+    <Tag enumID="190" value="1" />
+    <Tag enumID="217" value="1" />
+  </Entity>
 </CardDefs>
