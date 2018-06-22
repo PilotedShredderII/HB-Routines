@@ -3563,6 +3563,8 @@ namespace HREngine.Bots
             LOOT_108,
             GIL_548,
             LOOT_044,
+            GIL_681,
+            LOOT_368,
 
         }
         
@@ -6328,6 +6330,8 @@ namespace HREngine.Bots
             aluneth,
             bookofspecters,
             bladedgauntlet,
+            nightmareamalgam,
+            voidlord,
         }
 
         public cardName cardNamestringToEnum(string s)
@@ -11644,6 +11648,8 @@ namespace HREngine.Bots
                     return new Sim_GIL_548();
                 case cardIDEnum.LOOT_044:
                     return new Sim_LOOT_044();
+                case cardIDEnum.LOOT_368:
+                    return new Sim_LOOT_368();
             }
 
             return new SimTemplate();
